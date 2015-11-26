@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Binary Search 二分查找](Binary_Search_chapter.md)
+* [Binary Search 二分查找](binarysearch_chapter_md.md)
    * 333
 
